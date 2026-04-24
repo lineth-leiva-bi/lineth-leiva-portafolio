@@ -1,20 +1,30 @@
-# Portafolio Profesional - Lineth Leiva 
-Portafolio profesional de proyectos en Data, BI y Sistemas.
+# Portafolio de Proyectos - Lineth Leiva
 
-#Sobre mí 
+Desarrolladora de software junior con experiencia en desarrollo web, bases de datos y análisis de datos.
 
-Soy estudiante avanzada de Ingeniería en Sistemas, con interés en el análisis de datos y la inteligencia de negocios. 
-Cuento con experiencia académica en modelado de bases de datos, procesos ETL, análisis de información y desarrollo de sistemas web.
+## Proyectos destacados
 
-Me caracterizo por ser una persona analítica, organizada y orientada a la mejora de procesos. 
-Actualmente busco una oportunidad como **Analista de Datos / BI Junior** o roles afines que me permitan crecer profesionalmente y continuar con mis estudios.
+### Sistema Web - Óptica Grisol
+Sistema en producción para gestión de óptica.
 
-##Tecnologías y herramientas
+- Inventario
+- Facturación
+- Expedientes
+- Citas
+- Reportes
 
-- **Bases de datos:** SQL Server, MySQL, Oracle  
-- **Lenguajes:** SQL, C#, PHP  
-- **Business Intelligence:** Power BI  
-- **ETL y análisis de datos:** KNIME  
-- **Desarrollo:** .NET, ASP.NET MVC, HTML  
-- **Control de versiones:** Git, GitHub  
+Tecnologías:
+PHP, MySQL, JavaScript, HTML, CSS
+https://opticagrisol.com/
 
+### Sistema POS
+Sistema de ventas con control de inventario y facturación.
+
+Tecnologías:
+PHP, MySQL, JavaScript
+
+### Data Warehouse Retail
+Sistema de análisis de ventas con modelo estrella y ETL.
+
+Tecnologías:
+MySQL, KNIME, Power BI
