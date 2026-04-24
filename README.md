@@ -15,6 +15,7 @@ Sistema en producción para gestión de óptica.
 
 Tecnologías:
 PHP, MySQL, JavaScript, HTML, CSS
+
 https://opticagrisol.com/
 
 ### Sistema POS
